@@ -1,5 +1,5 @@
 # Supervised_Learning
-# Basic implementation of some of the supervised machine learning techniques in Pythin
+# Basic implementation of some of the supervised machine learning techniques in Python
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
@@ -14,6 +14,7 @@ You will also need to have software installed to run and execute an [iPython Not
 ### 1. Linear Regression
 
 In this section, the following methods/examples are implemented:
+
 **Features**
 - Mini batch gradient descent.
 - Basic linear regression for predicting life expectancy based on BMI.
