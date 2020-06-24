@@ -15,10 +15,12 @@ You will also need to have software installed to run and execute an [iPython Not
 
 In this section, the following methods/examples are implemented:
 
-**Features**
 - Mini batch gradient descent.
 - Basic linear regression for predicting life expectancy based on BMI.
 - Polynomial regression.
 - Regularization of Data.
 - Feature scaling of Data.
 
+### 2. Perceptron algorithm
+
+In this section, a basic perceptron algorithm is implemented to separate data file data.txt.
