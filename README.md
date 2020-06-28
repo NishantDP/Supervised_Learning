@@ -24,3 +24,8 @@ In this section, the following methods/examples are implemented:
 ### 2. Perceptron algorithm
 
 In this section, a basic perceptron algorithm is implemented to separate data file data.txt.
+
+### 3. Classification Tree
+
+In this section, a Decision tree algorithm is implemented in sklearn for Titanic Survival Exploration.
+
