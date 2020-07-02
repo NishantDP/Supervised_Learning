@@ -31,3 +31,12 @@ In this section, a basic perceptron algorithm is implemented to separate data fi
 
 In this section, a Decision tree algorithm is implemented in sklearn for Titanic Survival Exploration.
 
+### 4. Naive Bayes
+
+In this section, Naive Bayes algorithm is implemented in sklearn for classifying Emails as spam or not spam.
+
+### 5. Support vector machines
+
+In this section, SVM model is implemented in sklearn for achieving a 100 percent classifying accuracy on a sample dataset.
+Hyperparameters are tuned as required. 
+
