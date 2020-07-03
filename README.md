@@ -38,5 +38,9 @@ In this section, Naive Bayes algorithm is implemented in sklearn for classifying
 ### 5. Support vector machines
 
 In this section, SVM model is implemented in sklearn for achieving a 100 percent classifying accuracy on a sample dataset.
-Hyperparameters are tuned as required. 
+Hyperparameters are tuned as required.
+
+### 6. Ensemble methods
+
+In this section, we will expand the spam classification example from Naive bayes by using ensemble classifiers like bagging, random forest and ada-boost.
 
