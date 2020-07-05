@@ -60,3 +60,10 @@ In this section, we will implement the metrics used for evaluating the performan
 	- Mean squared error
 	- Mean absolute error
 	- r2 score
+	
+### 8. Model Training and tuning
+- Model complexity graphs
+- Validation and Learning curves
+- Hyperparameters optimization using grid search
+- Feature importances
+- Diabetes case study
