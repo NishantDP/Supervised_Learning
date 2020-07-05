@@ -47,9 +47,16 @@ In this section, we will expand the spam classification example from Naive bayes
 ### 7. Model Evaluation
 
 In this section, we will implement the metrics used for evaluating the performance of the models.
-	1. Classification model metrics:
-		- Accuracy score
-		- Recall score
-		- Precision score
-		- F1 and Fbeta scores
-		- ROC curve and AUC
+
+- Classification model metrics:
+
+	- Accuracy score
+	- Recall score
+	- Precision score
+	- F1 and Fbeta scores
+	- ROC curve and AUC
+	
+- Regression model metrics
+	- Mean squared error
+	- Mean absolute error
+	- r2 score
